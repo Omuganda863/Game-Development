@@ -1,0 +1,14 @@
+/home/ian/Desktop/GamePrototype/obj/Debug/net7.0/GamePrototype.GeneratedMSBuildEditorConfig.editorconfig
+/home/ian/Desktop/GamePrototype/obj/Debug/net7.0/GamePrototype.AssemblyInfoInputs.cache
+/home/ian/Desktop/GamePrototype/obj/Debug/net7.0/GamePrototype.AssemblyInfo.cs
+/home/ian/Desktop/GamePrototype/obj/Debug/net7.0/GamePrototype.csproj.CoreCompileInputs.cache
+/home/ian/Desktop/GamePrototype/bin/Debug/net7.0/GamePrototype
+/home/ian/Desktop/GamePrototype/bin/Debug/net7.0/GamePrototype.deps.json
+/home/ian/Desktop/GamePrototype/bin/Debug/net7.0/GamePrototype.runtimeconfig.json
+/home/ian/Desktop/GamePrototype/bin/Debug/net7.0/GamePrototype.dll
+/home/ian/Desktop/GamePrototype/bin/Debug/net7.0/GamePrototype.pdb
+/home/ian/Desktop/GamePrototype/obj/Debug/net7.0/GamePrototype.dll
+/home/ian/Desktop/GamePrototype/obj/Debug/net7.0/refint/GamePrototype.dll
+/home/ian/Desktop/GamePrototype/obj/Debug/net7.0/GamePrototype.pdb
+/home/ian/Desktop/GamePrototype/obj/Debug/net7.0/GamePrototype.genruntimeconfig.cache
+/home/ian/Desktop/GamePrototype/obj/Debug/net7.0/ref/GamePrototype.dll
