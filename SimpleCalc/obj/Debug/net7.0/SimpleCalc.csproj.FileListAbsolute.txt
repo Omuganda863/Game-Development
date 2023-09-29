@@ -1,0 +1,14 @@
+/home/ian/Desktop/GamePrototype/Game-Development/SimpleCalc/bin/Debug/net7.0/SimpleCalc
+/home/ian/Desktop/GamePrototype/Game-Development/SimpleCalc/bin/Debug/net7.0/SimpleCalc.deps.json
+/home/ian/Desktop/GamePrototype/Game-Development/SimpleCalc/bin/Debug/net7.0/SimpleCalc.runtimeconfig.json
+/home/ian/Desktop/GamePrototype/Game-Development/SimpleCalc/bin/Debug/net7.0/SimpleCalc.dll
+/home/ian/Desktop/GamePrototype/Game-Development/SimpleCalc/bin/Debug/net7.0/SimpleCalc.pdb
+/home/ian/Desktop/GamePrototype/Game-Development/SimpleCalc/obj/Debug/net7.0/SimpleCalc.GeneratedMSBuildEditorConfig.editorconfig
+/home/ian/Desktop/GamePrototype/Game-Development/SimpleCalc/obj/Debug/net7.0/SimpleCalc.AssemblyInfoInputs.cache
+/home/ian/Desktop/GamePrototype/Game-Development/SimpleCalc/obj/Debug/net7.0/SimpleCalc.AssemblyInfo.cs
+/home/ian/Desktop/GamePrototype/Game-Development/SimpleCalc/obj/Debug/net7.0/SimpleCalc.csproj.CoreCompileInputs.cache
+/home/ian/Desktop/GamePrototype/Game-Development/SimpleCalc/obj/Debug/net7.0/SimpleCalc.dll
+/home/ian/Desktop/GamePrototype/Game-Development/SimpleCalc/obj/Debug/net7.0/refint/SimpleCalc.dll
+/home/ian/Desktop/GamePrototype/Game-Development/SimpleCalc/obj/Debug/net7.0/SimpleCalc.pdb
+/home/ian/Desktop/GamePrototype/Game-Development/SimpleCalc/obj/Debug/net7.0/SimpleCalc.genruntimeconfig.cache
+/home/ian/Desktop/GamePrototype/Game-Development/SimpleCalc/obj/Debug/net7.0/ref/SimpleCalc.dll
