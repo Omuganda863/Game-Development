@@ -1,0 +1,14 @@
+/home/ian/Desktop/GamePrototype/Game-Development/CharacterClass/bin/Debug/net7.0/CharacterClass
+/home/ian/Desktop/GamePrototype/Game-Development/CharacterClass/bin/Debug/net7.0/CharacterClass.deps.json
+/home/ian/Desktop/GamePrototype/Game-Development/CharacterClass/bin/Debug/net7.0/CharacterClass.runtimeconfig.json
+/home/ian/Desktop/GamePrototype/Game-Development/CharacterClass/bin/Debug/net7.0/CharacterClass.dll
+/home/ian/Desktop/GamePrototype/Game-Development/CharacterClass/bin/Debug/net7.0/CharacterClass.pdb
+/home/ian/Desktop/GamePrototype/Game-Development/CharacterClass/obj/Debug/net7.0/CharacterClass.GeneratedMSBuildEditorConfig.editorconfig
+/home/ian/Desktop/GamePrototype/Game-Development/CharacterClass/obj/Debug/net7.0/CharacterClass.AssemblyInfoInputs.cache
+/home/ian/Desktop/GamePrototype/Game-Development/CharacterClass/obj/Debug/net7.0/CharacterClass.AssemblyInfo.cs
+/home/ian/Desktop/GamePrototype/Game-Development/CharacterClass/obj/Debug/net7.0/CharacterClass.csproj.CoreCompileInputs.cache
+/home/ian/Desktop/GamePrototype/Game-Development/CharacterClass/obj/Debug/net7.0/CharacterClass.dll
+/home/ian/Desktop/GamePrototype/Game-Development/CharacterClass/obj/Debug/net7.0/refint/CharacterClass.dll
+/home/ian/Desktop/GamePrototype/Game-Development/CharacterClass/obj/Debug/net7.0/CharacterClass.pdb
+/home/ian/Desktop/GamePrototype/Game-Development/CharacterClass/obj/Debug/net7.0/CharacterClass.genruntimeconfig.cache
+/home/ian/Desktop/GamePrototype/Game-Development/CharacterClass/obj/Debug/net7.0/ref/CharacterClass.dll
